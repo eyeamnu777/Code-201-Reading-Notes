@@ -6,3 +6,6 @@ grouping a collection of items in bulleted
 changing the list style to < UL >
 
 ## When should you use an ordered list vs an unorder list in your HTML document?
+
+<!-- Learning 03 -->
+<!-- I learned how to incorporate arrays into my javascript which serve as a list in JS -->
