@@ -65,3 +65,6 @@ CSS background images
 ` body { 
 
 }
+
+<!-- Learning 05 -->
+<!-- I learned about the alt tribute and its contribution to allowing different style of users read and comprehend a site -->
