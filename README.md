@@ -3,11 +3,6 @@
 ## Table of Contents
 
 1. [class 01 reading notes](Class01.md)
-
-
-
-
-
 2. [class 02 reading notes](Class02.md)
 3. [class 03 reading notes](Class03.md)
 4. [class 04 reading notes](Class04.md)
