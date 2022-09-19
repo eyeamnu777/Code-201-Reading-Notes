@@ -75,3 +75,5 @@ Class 4 Lecture notes
 
 - to define/ declare function
 - call/invoke
+<!-- Learning 04 -->
+<!-- I learned about fixed and absolute positioning and their differences like when a website has an window that follows the user until they click out to exit the window -->
