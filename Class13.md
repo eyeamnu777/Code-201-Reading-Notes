@@ -1,5 +1,5 @@
 # why this topic matters as it relates to what you are studying in this module.
-Class 13 is about Application States with Local Storage API: gives us information on what can go to local storage and the sensitivity 
+Class 13 is about Application States with Local Storage API: gives us information on what can go to local storage and the sensitivity.
 
 ## Why would a developer use local storage for a web application?
 "The web is stateless" and its state resets every time it is closed

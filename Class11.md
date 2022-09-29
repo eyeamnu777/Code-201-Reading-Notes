@@ -164,3 +164,9 @@ Read me.md
 -eventListeners
 - click count cotes and rerender new images
 -
+
+
+//if wanted to creat a new goat, will have a name
+// new Goat(bunny-goat, 'img/bunny-goat.png');
+// ---> ${name}.${fileExtension}`;
+//use file extension to build pathway 
